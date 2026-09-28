@@ -1,0 +1,4 @@
+interface:
+  display_name: "教员skill"
+  short_description: "Investigate complex problems, find the stage focus, and close the practice loop"
+  default_prompt: "Use $teacher-skill to investigate this complex problem, identify the stage focus, and produce an action-and-validation loop."
