@@ -1,0 +1,4 @@
+interface:
+  display_name: "教员SKILL"
+  short_description: "基于毛选文本，用调查、主次分析、阶段判断和实践闭环解决复杂问题"
+  default_prompt: "使用 $teacher-skill 调查并分析这个复杂问题，给出阶段重点、行动计划和验证闭环。"
